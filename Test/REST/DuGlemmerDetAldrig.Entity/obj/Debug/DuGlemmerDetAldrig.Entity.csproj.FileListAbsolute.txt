@@ -1,0 +1,4 @@
+C:\Projects\DuGlemmerDetAldrig\Test\REST\DuGlemmerDetAldrig.Entity\bin\Debug\DuGlemmerDetAldrig.Entity.dll
+C:\Projects\DuGlemmerDetAldrig\Test\REST\DuGlemmerDetAldrig.Entity\bin\Debug\DuGlemmerDetAldrig.Entity.pdb
+C:\Projects\DuGlemmerDetAldrig\Test\REST\DuGlemmerDetAldrig.Entity\obj\Debug\DuGlemmerDetAldrig.Entity.dll
+C:\Projects\DuGlemmerDetAldrig\Test\REST\DuGlemmerDetAldrig.Entity\obj\Debug\DuGlemmerDetAldrig.Entity.pdb

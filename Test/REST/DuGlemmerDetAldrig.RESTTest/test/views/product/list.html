@@ -1,0 +1,51 @@
+﻿<div id="container" class="table-responsive col-md-8">
+    <table class="table table-diflines">
+        <thead>
+            <tr>
+                <th colspan='10'><h3>PRODUCTS</h3></th>
+            </tr>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th width='20'></th>
+                <th>Description</th>
+                <th>Price</th>
+                <th>In Stock</th>
+                <th width='20'></th>
+                <th width='20'></th>
+                <th width='100' style='text-align:right'>Action</th>
+            </tr>
+            <tr>
+                <td id="prid"></td>
+                <td><input type="textbox" name="name" id="name" ng-model="name" /></td>
+                <td width='20'></td>
+                <td><input type="textbox" name="description" id="description" ng-model="description" /></td>
+                <td><input type="textbox" name="country" id="price" ng-model="price" /></td>
+                <td><input type="textbox" name="instock" id="instock" ng-model="instock" /></td>
+                <td></td>
+                <td>
+					<button id="addrec" class="btn btn-default" ng-click="insertProduct()" ><span class="glyphicon glyphicon-plus"></span></button>
+					<button id="updaterec" class="btn btn-default" ng-click="updateProduct()" style="display:none" ><span class="glyphicon glyphicon-ok"></span></button>
+				</td>
+                <td><button id="cancelrec" class="btn btn-default" ng-click="cancelUpdate()" style="display:none" ><span class="glyphicon glyphicon-off"></span></td>
+            </tr>
+        </thead>
+        <tbody id="rowid">
+            <tr ng-repeat="product in products">
+                <td> {{ product.id }} </td>
+                <td> {{ product.name }} </td>
+                <td></td>
+                <td> {{ product.description }} </td>
+                <td> {{ product.price }} </td>
+                <td> {{ product.instock }} </td>
+                <td></td>
+                <td><button class="btn btn-default" ng-click="selectProductToUpdate(product.id)"><span class="glyphicon glyphicon-pencil"></span></button></td>
+                <td><button class="btn btn-default" ng-click="deleteProduct(product.id)"><span class="glyphicon glyphicon-remove"></span></button></td>
+            </tr>
+        </tbody>
+    </table>
+	<input type="hidden" id="newname" value={{name}} />
+	<input type="hidden" id="newdescription" value={{description}} />
+	<input type="hidden" id="newprice" value={{price}} />
+	<input type="hidden" id="newinstock" value={{instock}} />
+</div>

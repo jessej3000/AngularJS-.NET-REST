@@ -1,0 +1,5 @@
+C:\Projects\DuGlemmerDetAldrig\Test\REST\DuGlemmerDetAldrig.Data\bin\Debug\DuGlemmerDetAldrig.Data.dll
+C:\Projects\DuGlemmerDetAldrig\Test\REST\DuGlemmerDetAldrig.Data\bin\Debug\DuGlemmerDetAldrig.Data.pdb
+C:\Projects\DuGlemmerDetAldrig\Test\REST\DuGlemmerDetAldrig.Data\obj\Debug\DuGlemmerDetAldrig.Data.dll
+C:\Projects\DuGlemmerDetAldrig\Test\REST\DuGlemmerDetAldrig.Data\obj\Debug\DuGlemmerDetAldrig.Data.pdb
+C:\Projects\DuGlemmerDetAldrig\Test\REST\DuGlemmerDetAldrig.Data\obj\Debug\DuGlemmerDetAldrig.Data.csprojResolveAssemblyReference.cache

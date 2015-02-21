@@ -1,0 +1,14 @@
+C:\Projects\DuGlemmerDetAldrig\Test\REST\DuGlemmerDetAldrig.Repository\bin\Debug\DuGlemmerDetAldrig.Repository.dll.config
+C:\Projects\DuGlemmerDetAldrig\Test\REST\DuGlemmerDetAldrig.Repository\bin\Debug\DuGlemmerDetAldrig.Repository.dll
+C:\Projects\DuGlemmerDetAldrig\Test\REST\DuGlemmerDetAldrig.Repository\bin\Debug\DuGlemmerDetAldrig.Repository.pdb
+C:\Projects\DuGlemmerDetAldrig\Test\REST\DuGlemmerDetAldrig.Repository\bin\Debug\DuGlemmerDetAldrig.Entity.dll
+C:\Projects\DuGlemmerDetAldrig\Test\REST\DuGlemmerDetAldrig.Repository\bin\Debug\EntityFramework.dll
+C:\Projects\DuGlemmerDetAldrig\Test\REST\DuGlemmerDetAldrig.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\DuGlemmerDetAldrig\Test\REST\DuGlemmerDetAldrig.Repository\bin\Debug\DuGlemmerDetAldrig.Entity.pdb
+C:\Projects\DuGlemmerDetAldrig\Test\REST\DuGlemmerDetAldrig.Repository\bin\Debug\EntityFramework.xml
+C:\Projects\DuGlemmerDetAldrig\Test\REST\DuGlemmerDetAldrig.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\DuGlemmerDetAldrig\Test\REST\DuGlemmerDetAldrig.Repository\obj\Debug\DuGlemmerDetAldrig.Repository.csprojResolveAssemblyReference.cache
+C:\Projects\DuGlemmerDetAldrig\Test\REST\DuGlemmerDetAldrig.Repository\obj\Debug\DuGlemmerDetAldrig.Repository.dll
+C:\Projects\DuGlemmerDetAldrig\Test\REST\DuGlemmerDetAldrig.Repository\obj\Debug\DuGlemmerDetAldrig.Repository.pdb
+C:\Projects\DuGlemmerDetAldrig\Test\REST\DuGlemmerDetAldrig.Repository\bin\Debug\DuGlemmerDetAldrig.Data.dll
+C:\Projects\DuGlemmerDetAldrig\Test\REST\DuGlemmerDetAldrig.Repository\bin\Debug\DuGlemmerDetAldrig.Data.pdb
